@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lab",
+            "request": "launch",
+            "mainClass": "lab",
+            "projectName": "JAVA_1a6df714"
+        },
+        {
+            "type": "java",
+            "name": "check2",
+            "request": "launch",
+            "mainClass": "check2",
+            "projectName": "JAVA_1a6df714"
+        },
+        {
+            "type": "java",
+            "name": "check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "JAVA_1a6df714"
+        },
+        {
+            "type": "java",
+            "name": "prin1",
+            "request": "launch",
+            "mainClass": "prin1",
+            "projectName": "JAVA_1a6df714"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "enter",
+            "request": "launch",
+            "mainClass": "enter",
+            "projectName": "JAVA_1a6df714"
+        },
+        {
+            "type": "java",
+            "name": "start",
+            "request": "launch",
+            "mainClass": "start",
+            "projectName": "JAVA_1a6df714"
+        },
+        {
+            "type": "java",
+            "name": "table",
+            "request": "launch",
+            "mainClass": "table",
+            "projectName": "JAVA_1a6df714"
+        }
+    ]
+}
